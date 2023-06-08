@@ -23,9 +23,9 @@ All my projects are listed and classified here.
 
 - [Unix Linux Cheat Sheet](https://github.com/SmockingArt/UnixLinuxCheatSheet) *In French*
 
-- [publisher vi](https://github.com/SmockingArt/publisher-vi)
+- [publisher vi](https://github.com/SmockingArt/publisher-vi) *In French*
 
-- [Gnome](https://github.com/SmockingArt/Gnome/tree/main)
+- [Gnome](https://github.com/SmockingArt/Gnome/tree/main) *In French*
 
 --- 
 

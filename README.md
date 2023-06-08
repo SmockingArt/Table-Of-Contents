@@ -23,7 +23,7 @@ All my projects are listed and classified here.
 
 - [Unix Linux Cheat Sheet](https://github.com/SmockingArt/UnixLinuxCheatSheet) *In French*
 
-- [publisher vi]() 🚧
+- [publisher vi](https://github.com/SmockingArt/publisher-vi)
 
 - [Gnome](https://github.com/SmockingArt/Gnome/tree/main)
 

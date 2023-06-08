@@ -25,7 +25,7 @@ All my projects are listed and classified here.
 
 - [publisher vi]() 🚧
 
-- [Gnome]()  🚧
+- [Gnome](https://github.com/SmockingArt/Gnome/tree/main)
 
 --- 
 

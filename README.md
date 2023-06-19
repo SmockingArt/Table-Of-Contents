@@ -26,8 +26,6 @@ All my projects are listed and classified here.
 
 - [publisher vi](https://github.com/SmockingArt/publisher-vi) *In French*
 
-- [Publisher Vim](https://github.com/SmockingArt/publisher-vim/tree/main) *In French*
-
 - [Gnome](https://github.com/SmockingArt/Gnome/tree/main) *In French*
 
 - [Git-GitHub](https://github.com/SmockingArt/Git-Github/blob/main/) *In French*
